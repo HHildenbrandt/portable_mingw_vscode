@@ -1,0 +1,10 @@
+<Configuration>
+    <MappedFolders>
+        <MappedFolder> 
+            <HostFolder>.\portable_mingw_vscode\</HostFolder> 
+            <ReadOnly>false</ReadOnly> 
+        </MappedFolder>
+    </MappedFolders>
+    <ClipboardRedirection>Default</ClipboardRedirection>
+    <Networking>Enable</Networking>
+</Configuration>

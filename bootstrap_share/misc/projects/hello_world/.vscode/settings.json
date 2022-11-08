@@ -1,0 +1,11 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cmake.configureOnOpen": true,
+    "cmake.environment": {
+        "PATH": "${workspaceFolder}\\..\\..\\mingw64\\bin;${env:PATH}"
+    },
+    "terminal.integrated.env.windows": {
+        "PATH": "${workspaceFolder}\\..\\..\\mingw64\\bin;${env:PATH}"
+    },
+    "cmake.cmakePath": "${workspaceFolder}\\..\\..\\mingw64\\bin\\cmake.exe"
+}

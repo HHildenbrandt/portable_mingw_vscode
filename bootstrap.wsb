@@ -1,0 +1,10 @@
+<Configuration>
+    <MappedFolders>
+        <MappedFolder> 
+            <HostFolder>.\bootstrap_share\</HostFolder> 
+            <ReadOnly>false</ReadOnly> 
+        </MappedFolder>
+    </MappedFolders>
+    <ClipboardRedirection>Default</ClipboardRedirection>
+    <Networking>Enable</Networking>
+</Configuration>

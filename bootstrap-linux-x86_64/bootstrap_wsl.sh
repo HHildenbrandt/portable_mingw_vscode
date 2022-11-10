@@ -7,7 +7,7 @@ wget ${CMURI}
 chmod +x ${CM}
 sudo /bin/bash -c "./${CM} --prefix=/usr/local --exclude-subdir"
 
-sudo apt install cmake ninja-build clang gdb -y
+sudo apt install ninja-build clang gdb -y
 
 winget.exe install "Visual Studio Code" --source msstore
 

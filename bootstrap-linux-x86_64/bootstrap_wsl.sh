@@ -20,6 +20,7 @@ install_code_extension ms-vscode.cpptools
 install_code_extension ms-vscode.cpptools-themes
 install_code_extension ms-vscode.cpptools-extension-pack
 install_code_extension ms-vscode.cmake-tools
+install_code_extension ms-vscode-remote.remote-wsl
 
 cp -r ./projects ~/
 mv ~/projects ~/projects
